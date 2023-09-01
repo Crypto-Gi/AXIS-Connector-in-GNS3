@@ -2,7 +2,7 @@
 
 > A streamlined guide to integrating Axis Connector within your GNS3 environment.
 
-![Axis Connector for GNS3 Logo](your-logo-or-image-link-here)
+
 
 ---
 
